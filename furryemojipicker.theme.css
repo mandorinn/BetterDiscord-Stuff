@@ -1,0 +1,16 @@
+/**
+ * @name         Furry Emoji Picker
+ * @description  Changes emoji picker emoji to be Fir emotes
+  * @author       まんどりん
+ * @version      1.0
+ */
+
+.sprite-2lxwfc {
+	background-image: url(https://cdn.discordapp.com/attachments/946865478075301908/949568704084070400/furry_emoji_picker_rounded_full2.png);
+    	background-position: 60%;
+   	background-repeat: repeat;
+    	width: 20px;
+   	height: 20px;
+   	display: block;
+}
+
