@@ -6,7 +6,7 @@
  */
 
 .sprite-2lxwfc {
-	background-image: url(https://raw.githubusercontent.com/mandorinn/BetterDiscord-Stuff/main/Furry%20Emoji%20Picker/furry%20emoji%20picker%20rounded%20full2.png);
+	background-image: url("https://raw.githubusercontent.com/mandorinn/BetterDiscord-Stuff/main/Furry%20Emoji%20Picker/furry%20emoji%20picker%20rounded%20full2.png");
     	background-position: 60%;
    	background-repeat: repeat;
     	width: 20px;
